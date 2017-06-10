@@ -25,7 +25,7 @@
             <div class="col-left float_left">
                 <ul class="top-bar-info">
                     <li><i class="icon-technology"></i>Phone: (123) 0200 12345</li>
-                    <li><i class="icon-note2"></i>Mailus@TheExperts.com</li>
+                    <li><i class="icon-note2"></i>info@multitudetech.com</li>
                 </ul>
             </div>
             <div class="col-right float_right">

@@ -17,9 +17,6 @@
                         </li>
                     </ul><!-- /.list-line -->
                 </div><!-- /.pull-left -->
-                <div class="pull-right">
-                    <a href="#" class="get-qoute"><i class="fa fa-share-alt"></i>share</a>
-                </div><!-- /.pull-right -->
             </div><!-- /.container -->
         </div>
     </div><!-- /.container -->
@@ -60,181 +57,6 @@
             <p>Anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances <br>occur in which toil and pain can procure him some great pleasure. </p>
         </div>
         <div class="link"><a href="service.php" class="thm-btn">View Services</a></div>
-    </div>
-</section>
-
-<section class="our-history sec-padd-top">
-    <div class="container">
-        <div class="section-title center">
-            <h2>History In Words</h2>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <div class="slider-pager">
-                    <ul class="list-inline thumb-box style2">
-
-                        <li>
-                            <a class="active" data-slide-index="0" href="#">1994</a>
-                        </li>
-                        <li>
-                            <a data-slide-index="1" href="#">1995</a>
-                        </li>
-                        <li>
-                            <a data-slide-index="2" href="#">1996</a>
-                        </li>
-                        <li>
-                            <a data-slide-index="3" href="#">1997</a>
-                        </li>
-                        <li>
-                            <a data-slide-index="4" href="#">1998</a>
-                        </li>
-                        <li>
-                            <a data-slide-index="5" href="#">1999</a>
-                        </li>
-
-                    </ul>
-                </div>    
-            </div>
-            <div class="col-md-1 col-sm-2 col-xs-2">
-                <div class="slider-pager">
-                    
-                    <ul class="list-inline thumb-box style1">
-
-                        <li>
-                            <a class="active" data-slide-index="0" href="#">Jan 14</a>
-                        </li>
-                        <li>
-                            <a data-slide-index="1" href="#">Mar 21</a>
-                        </li>
-                        <li>
-                            <a data-slide-index="2" href="#">Jun 05</a>
-                        </li>
-                        <li>
-                            <a data-slide-index="3" href="#">Jun 16</a>
-                        </li>
-                        <li>
-                            <a data-slide-index="4" href="#">Sep 23</a>
-                        </li>
-                        <li>
-                            <a data-slide-index="5" href="#">Dec 29</a>
-                        </li>
-
-                    </ul>
-
-
-                    
-                </div>
-            </div>
-            <div class="col-md-11 col-sm-10 col-xs-10">
-                
-                    
-                <ul class="bxslider ">
-                    <li>
-                        <div class="clearfix">
-                            <figure class="img-box pull-left">
-                                <a href="#"><img src="images/resource/history.jpg" alt=""></a>
-                            </figure>
-                            <div class="content">
-                                <h4>Award For Best Service</h4>
-                                <p class="theme-color">21st January 1975</p>
-                                <div class="text">
-                                    <p>Expertsl story stretches back more than 125 years & encompases several predecessor companies sed and the inspiring work of tens  thousands of people. But our core mission and values, Great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure.</p>
-                                    <p>Competition and a sudden sharp rise in the cost of raw materials leads many to set up associations, promoting their interets & defending themselves against monopolies great explorer of the truth.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="clearfix">
-                            <figure class="img-box pull-left">
-                                <a href="#"><img src="images/resource/history2.jpg" alt=""></a>
-                            </figure>
-                            <div class="content">
-                                <h4>Award For Best Service</h4>
-                                <p class="theme-color">21st January 1975</p>
-                                <div class="text">
-                                    <p>Expertsl story stretches back more than 125 years & encompases several predecessor companies sed and the inspiring work of tens  thousands of people. But our core mission and values, Great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure.</p>
-                                    <p>Competition and a sudden sharp rise in the cost of raw materials leads many to set up associations, promoting their interets & defending themselves against monopolies great explorer of the truth.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="clearfix">
-                            <figure class="img-box pull-left">
-                                <a href="#"><img src="images/resource/history3.jpg" alt=""></a>
-                            </figure>
-                            <div class="content">
-                                <h4>Award For Best Service</h4>
-                                <p class="theme-color">21st January 1975</p>
-                                <div class="text">
-                                    <p>Expertsl story stretches back more than 125 years & encompases several predecessor companies sed and the inspiring work of tens  thousands of people. But our core mission and values, Great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure.</p>
-                                    <p>Competition and a sudden sharp rise in the cost of raw materials leads many to set up associations, promoting their interets & defending themselves against monopolies great explorer of the truth.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="clearfix">
-                            <figure class="img-box pull-left">
-                                <a href="#"><img src="images/resource/history4.jpg" alt=""></a>
-                            </figure>
-                            <div class="content">
-                                <h4>Award For Best Service</h4>
-                                <p class="theme-color">21st January 1975</p>
-                                <div class="text">
-                                    <p>Expertsl story stretches back more than 125 years & encompases several predecessor companies sed and the inspiring work of tens  thousands of people. But our core mission and values, Great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure.</p>
-                                    <p>Competition and a sudden sharp rise in the cost of raw materials leads many to set up associations, promoting their interets & defending themselves against monopolies great explorer of the truth.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="clearfix">
-                            <figure class="img-box pull-left">
-                                <a href="#"><img src="images/resource/history5.jpg" alt=""></a>
-                            </figure>
-                            <div class="content">
-                                <h4>Award For Best Service</h4>
-                                <p class="theme-color">21st January 1975</p>
-                                <div class="text">
-                                    <p>Expertsl story stretches back more than 125 years & encompases several predecessor companies sed and the inspiring work of tens  thousands of people. But our core mission and values, Great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure.</p>
-                                    <p>Competition and a sudden sharp rise in the cost of raw materials leads many to set up associations, promoting their interets & defending themselves against monopolies great explorer of the truth.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="clearfix">
-                            <figure class="img-box pull-left">
-                                <a href="#"><img src="images/resource/history6.jpg" alt=""></a>
-                            </figure>
-                            <div class="content">
-                                <h4>Award For Best Service</h4>
-                                <p class="theme-color">21st January 1975</p>
-                                <div class="text">
-                                    <p>Expertsl story stretches back more than 125 years & encompases several predecessor companies sed and the inspiring work of tens  thousands of people. But our core mission and values, Great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure.</p>
-                                    <p>Competition and a sudden sharp rise in the cost of raw materials leads many to set up associations, promoting their interets & defending themselves against monopolies great explorer of the truth.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-
-
-                    
-                </ul>
-                <div class="slider-pager">
-                    <div class="center">
-                        <ul class="nav-link list-inline">
-                            <li id="slider-prev"></li>
-                            <li id="slider-next"></li>
-                        </ul>  
-                    </div>
-                    
-                </div>
-            </div>
-                
-        </div>         
     </div>
 </section>
  
@@ -363,20 +185,19 @@
                         <div class="overlay">
                             <div class="inner-box">
                                 <ul class="social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                    <li><a href="https://www.facebook.com/sanketpatel2108"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://twitter.com/smp2108"><i class="fa fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                                 
                         </div>
                     </figure>
                     <div class="author-info">
-                        <a href="#"><h4>Felicity BNovak</h4></a>
-                        <p>Designer</p>
+                        <a href="#"><h4>Sanket Patel</h4></a>
+                        <p>Web Designer & Developer</p>
                         <ul>
-                            <li><i class="fa fa-phone"></i>Phone: +123-456-7890</li>
-                            <li><i class="fa fa-envelope"></i><a href="#">Felicity@Experts.com</a></li>
+                            <li><i class="fa fa-phone"></i>Phone: <a href="tel:+917405094570">+91-7405094570</a></li>
+                            <li><i class="fa fa-envelope"></i><a href="mailto:sanket@multitudetech.com">sanket@multitudetech.com</a></li>
                         </ul>
                     </div>
                         
@@ -391,18 +212,17 @@
                                 <ul class="social">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
                                 </ul>
                             </div>
                                 
                         </div>
                     </figure>
                     <div class="author-info">
-                        <a href="#"><h4>Mark Richarson</h4></a>
-                        <p>HR Manager</p>
+                        <a href="#"><h4>Tejas Ambalia</h4></a>
+                        <p>Web Developer</p>
                         <ul>
-                            <li><i class="fa fa-phone"></i>Phone: +987-654-3210</li>
-                            <li><i class="fa fa-envelope"></i><a href="#">Richardson@Experts.com</a></li>
+                            <li><i class="fa fa-phone"></i>Phone: <a href="tel:9409388600">+91-9409388600</a></li>
+                            <li><i class="fa fa-envelope"></i><a href="mailto:tejas@multitudetech.com">tejas@multitudetech.com</a></li>
                         </ul>
                     </div>
                         
@@ -417,18 +237,17 @@
                                 <ul class="social">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
                                 </ul>
                             </div>
                                 
                         </div>
                     </figure>
                     <div class="author-info">
-                        <a href="#"><h4>Jom Caraleno</h4></a>
-                        <p>Accountant</p>
+                        <a href="#"><h4>Rupal Bapodara</h4></a>
+                        <p>Web Developer</p>
                         <ul>
-                            <li><i class="fa fa-phone"></i>Phone: +456-789-0123</li>
-                            <li><i class="fa fa-envelope"></i><a href="#">Caraleno@Experts.com</a></li>
+                            <li><i class="fa fa-phone"></i>Phone: <a href="tel:+919173750243">+91-9173750243</a></li>
+                            <li><i class="fa fa-envelope"></i><a href="mailto:rupal@multitudetech.com">rupal@multitudetech.com</a></li>
                         </ul>
                     </div>
                         
@@ -443,24 +262,22 @@
                                 <ul class="social">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
                                 </ul>
                             </div>
                                 
                         </div>
                     </figure>
                     <div class="author-info">
-                        <a href="#"><h4>Asahtan Marsh</h4></a>
-                        <p>President</p>
+                        <a href="#"><h4>Aarthi Nair</h4></a>
+                        <p>PC & Administrator</p>
                         <ul>
-                            <li><i class="fa fa-phone"></i>Phone: +789-012-3456</li>
-                            <li><i class="fa fa-envelope"></i><a href="#">Asahtan@Experts.com</a></li>
+                            <li><i class="fa fa-phone"></i>Phone: <a href="tel:9712766037">+91-9712766037</a></li>
+                            <li><i class="fa fa-envelope"></i><a href="mailto:aarthi@multitudetech.com">aarthi@multitudetech.com</a></li>
                         </ul>
                     </div>
                         
                 </div>
-            </article>
-                
+            </article>                
         </div>
     </div>
 
@@ -472,10 +289,18 @@
             <div class="col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
                 <h2>Subscribe For Newsletter</h2>
                 <p>Idea of denouncing pleasure praising pain was born and I will give you a complete account <br> ofsystem, expound the great explorer.</p>
-                <form class="subscribe-form">
-                    <input type="email" placeholder="Email Address"><span class="fa fa-envelope"></span>
-                    <button type="submit" class="thm-btn">subscribe us</button>
-                </form>
+                <!-- Begin MailChimp Signup Form -->
+                <div id="mc_embed_signup">
+                    <form action="//multitudetech.us16.list-manage.com/subscribe/post?u=99bf91def8cc87573f3d7e15d&amp;id=9931c80ef0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate subscribe-form" target="_blank" novalidate>
+                        <div id="mc_embed_signup_scroll">
+                                <input type="email" value="" name="EMAIL" id="mce-EMAIL"><span class="fa fa-envelope"></span>
+                            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_99bf91def8cc87573f3d7e15d_9931c80ef0" tabindex="-1" value=""></div>
+                            <button type="submit" class="thm-btn"  name="subscribe" id="mc-embedded-subscribe">Subscribe Us</button>
+                        </div>
+                    </form>
+                </div>
+                <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+                <!--End mc_embed_signup-->
             </div>
         </div>
                 
@@ -485,7 +310,7 @@
 <section class="achive sec-padd">
     <div class="container">
         <div class="section-title center">
-            <h2>Our Achivement</h2>
+            <h2>Our Portfolio</h2>
         </div>
         <div class="achive-carousel">
             <figure class="item">

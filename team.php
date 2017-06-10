@@ -14,9 +14,6 @@
                         <li>Our Team</li>
                     </ul>
                 </div>
-                <div class="pull-right">
-                    <a href="#" class="get-qoute"><i class="fa fa-share-alt"></i>share</a>
-                </div><!-- /.pull-right -->
             </div><!-- /.container -->
         </div>
     </div><!-- /.container -->
@@ -35,20 +32,19 @@
                         <div class="overlay">
                             <div class="inner-box">
                                 <ul class="social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                    <li><a href="https://www.facebook.com/sanketpatel2108"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://twitter.com/smp2108"><i class="fa fa-twitter"></i></a></li>
                                 </ul>
                             </div>
                                 
                         </div>
                     </figure>
                     <div class="author-info">
-                        <a href="#"><h4>Felicity BNovak</h4></a>
-                        <p>Designer</p>
+                        <a href="#"><h4>Sanket Patel</h4></a>
+                        <p>Web Designer & Developer</p>
                         <ul>
-                            <li><i class="fa fa-phone"></i>Phone: +123-456-7890</li>
-                            <li><i class="fa fa-envelope"></i><a href="#">Felicity@Experts.com</a></li>
+                            <li><i class="fa fa-phone"></i>Phone: <a href="tel:+917405094570">+91-7405094570</a></li>
+                            <li><i class="fa fa-envelope"></i><a href="mailto:sanket@multitudetech.com">sanket@multitudetech.com</a></li>
                         </ul>
                     </div>
                         
@@ -63,18 +59,17 @@
                                 <ul class="social">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
                                 </ul>
                             </div>
                                 
                         </div>
                     </figure>
                     <div class="author-info">
-                        <a href="#"><h4>Mark Richarson</h4></a>
-                        <p>HR Manager</p>
+                        <a href="#"><h4>Tejas Ambalia</h4></a>
+                        <p>Web Developer</p>
                         <ul>
-                            <li><i class="fa fa-phone"></i>Phone: +987-654-3210</li>
-                            <li><i class="fa fa-envelope"></i><a href="#">Richardson@Experts.com</a></li>
+                            <li><i class="fa fa-phone"></i>Phone: <a href="tel:9409388600">+91-9409388600</a></li>
+                            <li><i class="fa fa-envelope"></i><a href="mailto:tejas@multitudetech.com">tejas@multitudetech.com</a></li>
                         </ul>
                     </div>
                         
@@ -89,18 +84,17 @@
                                 <ul class="social">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
                                 </ul>
                             </div>
                                 
                         </div>
                     </figure>
                     <div class="author-info">
-                        <a href="#"><h4>Jom Caraleno</h4></a>
-                        <p>Accountant</p>
+                        <a href="#"><h4>Rupal Bapodara</h4></a>
+                        <p>Web Developer</p>
                         <ul>
-                            <li><i class="fa fa-phone"></i>Phone: +456-789-0123</li>
-                            <li><i class="fa fa-envelope"></i><a href="#">Caraleno@Experts.com</a></li>
+                            <li><i class="fa fa-phone"></i>Phone: <a href="tel:+919173750243">+91-9173750243</a></li>
+                            <li><i class="fa fa-envelope"></i><a href="mailto:rupal@multitudetech.com">rupal@multitudetech.com</a></li>
                         </ul>
                     </div>
                         
@@ -115,128 +109,22 @@
                                 <ul class="social">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
                                 </ul>
                             </div>
                                 
                         </div>
                     </figure>
                     <div class="author-info">
-                        <a href="#"><h4>Asahtan Marsh</h4></a>
-                        <p>President</p>
+                        <a href="#"><h4>Aarthi Nair</h4></a>
+                        <p>PC & Administrator</p>
                         <ul>
-                            <li><i class="fa fa-phone"></i>Phone: +789-012-3456</li>
-                            <li><i class="fa fa-envelope"></i><a href="#">Asahtan@Experts.com</a></li>
+                            <li><i class="fa fa-phone"></i>Phone: <a href="tel:9712766037">+91-9712766037</a></li>
+                            <li><i class="fa fa-envelope"></i><a href="mailto:aarthi@multitudetech.com">aarthi@multitudetech.com</a></li>
                         </ul>
                     </div>
                         
                 </div>
-            </article>
-            <article class="col-md-3 col-sm-6 col-xs-12">
-                <div class="single-team-member">
-                    <figure class="img-box">
-                        <a href="#"><img src="images/team/t5.jpg" alt=""></a>
-                        <div class="overlay">
-                            <div class="inner-box">
-                                <ul class="social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
-                            </div>
-                                
-                        </div>
-                    </figure>
-                    <div class="author-info">
-                        <a href="#"><h4>Felicity BNovak</h4></a>
-                        <p>Designer</p>
-                        <ul>
-                            <li><i class="fa fa-phone"></i>Phone: +123-456-7890</li>
-                            <li><i class="fa fa-envelope"></i><a href="#">Felicity@Experts.com</a></li>
-                        </ul>
-                    </div>
-                        
-                </div>
-            </article>
-            <article class="col-md-3 col-sm-6 col-xs-12">
-                <div class="single-team-member">
-                    <figure class="img-box">
-                        <a href="#"><img src="images/team/t6.jpg" alt=""></a>
-                        <div class="overlay">
-                            <div class="inner-box">
-                                <ul class="social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
-                            </div>
-                                
-                        </div>
-                    </figure>
-                    <div class="author-info">
-                        <a href="#"><h4>Mark Richarson</h4></a>
-                        <p>HR Manager</p>
-                        <ul>
-                            <li><i class="fa fa-phone"></i>Phone: +987-654-3210</li>
-                            <li><i class="fa fa-envelope"></i><a href="#">Richardson@Experts.com</a></li>
-                        </ul>
-                    </div>
-                        
-                </div>
-            </article>
-            <article class="col-md-3 col-sm-6 col-xs-12">
-                <div class="single-team-member">
-                    <figure class="img-box">
-                        <a href="#"><img src="images/team/t7.jpg" alt=""></a>
-                        <div class="overlay">
-                            <div class="inner-box">
-                                <ul class="social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
-                            </div>
-                                
-                        </div>
-                    </figure>
-                    <div class="author-info">
-                        <a href="#"><h4>Jom Caraleno</h4></a>
-                        <p>Accountant</p>
-                        <ul>
-                            <li><i class="fa fa-phone"></i>Phone: +456-789-0123</li>
-                            <li><i class="fa fa-envelope"></i><a href="#">Caraleno@Experts.com</a></li>
-                        </ul>
-                    </div>
-                        
-                </div>
-            </article>
-            <article class="col-md-3 col-sm-6 col-xs-12">
-                <div class="single-team-member">
-                    <figure class="img-box">
-                        <a href="#"><img src="images/team/t8.jpg" alt=""></a>
-                        <div class="overlay">
-                            <div class="inner-box">
-                                <ul class="social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
-                            </div>
-                                
-                        </div>
-                    </figure>
-                    <div class="author-info">
-                        <a href="#"><h4>Asahtan Marsh</h4></a>
-                        <p>President</p>
-                        <ul>
-                            <li><i class="fa fa-phone"></i>Phone: +789-012-3456</li>
-                            <li><i class="fa fa-envelope"></i><a href="#">Asahtan@Experts.com</a></li>
-                        </ul>
-                    </div>
-                        
-                </div>
-            </article>
-                
+            </article>                
         </div>
     </div>
 

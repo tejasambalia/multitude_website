@@ -13,9 +13,6 @@
                         <li>Contact</li>
                     </ul>
                 </div>
-                <div class="pull-right">
-                    <a href="#" class="get-qoute"><i class="fa fa-share-alt"></i>share</a>
-                </div><!-- /.pull-right -->
             </div><!-- /.container -->
         </div>
     </div><!-- /.container -->
@@ -24,46 +21,6 @@
 
 <section class="contact_details sec-padd2">
     <div class="container">
-        <div class="tabs-outer">
-            <!--Tabs Box-->
-            <div class="tabs-box tabs-style-one">
-                <!--Tab Buttons-->
-                <ul class="tab-buttons clearfix">
-                    <li data-tab="#tab-one" class="tab-btn">Newyork City</li>
-                    <li data-tab="#tab-two" class="tab-btn active-btn">Los Angeles</li>
-                    <li data-tab="#tab-three" class="tab-btn">San Fransisico</li>
-                    <li data-tab="#tab-four" class="tab-btn">Chicago</li>
-                </ul>
-            
-                <!--Tabs Content-->
-                <div class="tabs-content">
-                    <!--Tab / Active Tab-->
-                    <div class="tab" id="tab-one" style="display: none;">
-                        <div class="text-content">
-                            <div class="text"><p>We recently helped a small business grow from break-even to over $1m profit in less than 2 years. Please find below contact details <br>and contact us today! Our experts always ready to help you.</p></div>
-                        </div>
-                    </div>
-                    
-                    <!--Tab-->
-                    <div class="tab active-tab" id="tab-two" style="display: block;">
-                        <div class="text-content">
-                             <div class="text"><p>We recently helped a small business grow from break-even to over $1m profit in less than 2 years. Please find below contact details <br>and contact us today! Our experts always ready to help you.</p></div>                         
-                        </div>
-                    </div>
-                    
-                    <!--Tab-->
-                    <div class="tab" id="tab-three" style="display: none;">
-                        <div class="text"><p>We recently helped a small business grow from break-even to over $1m profit in less than 2 years. Please find below contact details <br>and contact us today! Our experts always ready to help you.</p></div>
-                    </div>
-                    <!--Tab-->
-                    <div class="tab" id="tab-four" style="display: none;">
-                        <div class="text"><p>We recently helped a small business grow from break-even to over $1m profit in less than 2 years. Please find below contact details <br>and contact us today! Our experts always ready to help you. </p></div>
-                    </div>
-                    
-                </div>
-                
-            </div>
-        </div>
 
         <div class="row">
             <div class="col-md-4 col-sm-6 col-xs-12">
@@ -73,7 +30,7 @@
                     </div>
                     <h4>Visit Our Place</h4>
                     <div class="text">
-                        <p>241/84 Theme Name Discover Street <br>New York, NY 10012, USA</p>
+                        <p>Ahmedabad, Gujarat, India</p>
                     </div>
                 </div>
             </div>
@@ -95,7 +52,7 @@
                     </div>
                     <h4>Quick Contact</h4>
                     <div class="text">
-                        <p>Ph: +321 456 78 9012 <br>Email: Info@Wesupportyou.com</p>
+                        <p><!-- Ph: +321 456 78 9012 <br> -->Email: Iinfo@multitudetech.com</p>
                     </div>
                 </div>
             </div>
@@ -157,12 +114,11 @@
                     <div 
                         class="google-map" 
                         id="contact-google-map" 
-                        data-map-lat="40.938541" 
-                        data-map-lng="-73.904893" 
-                        data-icon-path="images/logo/map-marker.png"
+                        data-map-lat="23.0168035" 
+                        data-map-lng="72.5886083" 
+                        data-icon-path="images/slider/logo.png"
                         data-map-title="Chester"
                         data-map-zoom="11" >
-
                     </div>
 
                 </div>

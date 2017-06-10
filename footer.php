@@ -37,7 +37,7 @@
                                 <div class="widget-content">
                                     <div class="text"><p>The Experts consulting over 20 years of experience we’ll ensure you always get the best guidance. We serve a clients at every level of their organization, in whatever capacity we can be most useful, whether as a trusted advisor.</p> </div>
                                     <div class="link">
-                                        <a href="#" class="default_link">More About us <i class="fa fa-angle-right"></i></a>
+                                        <a href="/about.php" class="default_link">More About us <i class="fa fa-angle-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -72,9 +72,9 @@
                                 <h3 class="footer-title">Contact us</h3>
                                 <div class="widget-content">
                                     <ul class="contact-info">
-                                        <li><span class="icon-signs"></span>22/121 Apple Street, New York, <br>NY 10012, USA</li>
+                                        <li><span class="icon-signs"></span>Ahmedabad</li>
                                         <li><span class="icon-phone-call"></span> Phone: +123-456-7890</li>
-                                        <li><span class="icon-e-mail-envelope"></span>Mail@Fortuneteam.com</li>
+                                        <li><span class="icon-e-mail-envelope"></span>info@multitudetech.com</li>
                                     </ul>
                                 </div>
                                 <ul class="social">
@@ -93,11 +93,25 @@
                                 <div class="widget-content">
                                     <!--Post-->
                                     <div class="text"><p>Sign up today for hints, tips and the <br>latest product news</p></div>
-                                    <!--Post-->
-                                    <form action="#" class="default-form">
-                                        <input type="email" placeholder="Email Address">
-                                        <button type="submit" class="thm-btn">Subscribe Us</button>
-                                    </form>
+                                    
+                                    <!-- Begin MailChimp Signup Form -->
+                                    <div id="mc_embed_signup">
+                                        <form action="//multitudetech.us16.list-manage.com/subscribe/post?u=99bf91def8cc87573f3d7e15d&amp;id=9931c80ef0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate default-form" target="_blank" novalidate>
+                                            <div id="mc_embed_signup_scroll">
+                                                <div class="mc-field-group">
+                                                    <input type="email" value="" name="EMAIL" id="mce-EMAIL">
+                                                </div>
+                                                <div id="mce-responses" class="clear">
+                                                    <div class="response" id="mce-error-response" style="display:none"></div>
+                                                    <div class="response" id="mce-success-response" style="display:none"></div>
+                                                </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_99bf91def8cc87573f3d7e15d_9931c80ef0" tabindex="-1" value=""></div>
+                                                <button type="submit" class="thm-btn"  name="subscribe" id="mc-embedded-subscribe">Subscribe Us</button>
+                                            </div>
+                                        </form>
+                                    </div>
+                                    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+                                    <!--End mc_embed_signup-->
                                 </div>
                                 
                             </div>
