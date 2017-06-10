@@ -196,7 +196,6 @@
                         <a href="#"><h4>Sanket Patel</h4></a>
                         <p>Web Designer & Developer</p>
                         <ul>
-                            <li><i class="fa fa-phone"></i>Phone: <a href="tel:+917405094570">+91-7405094570</a></li>
                             <li><i class="fa fa-envelope"></i><a href="mailto:sanket@multitudetech.com">sanket@multitudetech.com</a></li>
                         </ul>
                     </div>
@@ -221,7 +220,6 @@
                         <a href="#"><h4>Tejas Ambalia</h4></a>
                         <p>Web Developer</p>
                         <ul>
-                            <li><i class="fa fa-phone"></i>Phone: <a href="tel:9409388600">+91-9409388600</a></li>
                             <li><i class="fa fa-envelope"></i><a href="mailto:tejas@multitudetech.com">tejas@multitudetech.com</a></li>
                         </ul>
                     </div>
@@ -246,7 +244,6 @@
                         <a href="#"><h4>Rupal Bapodara</h4></a>
                         <p>Web Developer</p>
                         <ul>
-                            <li><i class="fa fa-phone"></i>Phone: <a href="tel:+919173750243">+91-9173750243</a></li>
                             <li><i class="fa fa-envelope"></i><a href="mailto:rupal@multitudetech.com">rupal@multitudetech.com</a></li>
                         </ul>
                     </div>
@@ -271,7 +268,6 @@
                         <a href="#"><h4>Aarthi Nair</h4></a>
                         <p>PC & Administrator</p>
                         <ul>
-                            <li><i class="fa fa-phone"></i>Phone: <a href="tel:9712766037">+91-9712766037</a></li>
                             <li><i class="fa fa-envelope"></i><a href="mailto:aarthi@multitudetech.com">aarthi@multitudetech.com</a></li>
                         </ul>
                     </div>
