@@ -14,9 +14,6 @@
                         <li>Projects 4 Columns</li>
                     </ul>
                 </div>
-                <div class="pull-right">
-                    <a href="#" class="get-qoute"><i class="fa fa-share-alt"></i>share</a>
-                </div><!-- /.pull-right -->
             </div><!-- /.container -->
         </div>
     </div><!-- /.container -->
@@ -109,31 +106,6 @@
         </div>
     </div><br><br><br><br>
     <div class="border-bottom"></div>
-    <div class="container">
-        <div class="pagination">    
-            <div class="row">
-                <div class="col-md-4 col-sm-4 col-xs-4">
-                    <div class="button prev pull-left">
-                        <a href="#"><i class="fa fa-long-arrow-left" aria-hidden="true"></i>&nbsp;&nbsp;Prev</a>    
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-4">
-                    <div class="icon-holder text-center">
-                        <a href="#">
-                            <i class="fa fa-th" aria-hidden="true"></i>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-4">
-                    <div class="button next pull-right">
-                        <a href="#">Next &nbsp;&nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>    
-                    </div>
-                </div>
-            </div>
-                
-        </div>
-    </div>    
-
 </div>
 
 

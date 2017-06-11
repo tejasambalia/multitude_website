@@ -128,7 +128,7 @@
      <section class="footer-bottom">
         <div class="container">
             <div class="pull-left copy-text">
-                <p>Copyrights © 2017 All Rights Reserved. Powered by  <a href="#"> The Experts.</a></p>
+                <p>Copyrights © 2017 All Rights Reserved by  <a href="/index.php"> Multitude Tech.</a></p>
                 
             </div><!-- /.pull-right -->
             <div class="pull-right get-text">
