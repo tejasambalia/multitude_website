@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Multitude Tech.</title> 
+    <title>Multitude Tech | Webapplication development | Website designing | Business development | Graphics design | Mobile app development</title> 
 
     <!-- mobile responsive meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,7 +24,7 @@
         <div class="clearfix">
             <div class="col-left float_left">
                 <ul class="top-bar-info">
-                    <li><i class="icon-technology"></i>Phone: (123) 0200 12345</li>
+                    <li><i class="icon-technology"></i>Phone: +91 79846 30384</li>
                     <li><i class="icon-note2"></i>info@multitudetech.com</li>
                 </ul>
             </div>

@@ -3,59 +3,6 @@
 <section class="rev_slider_wrapper">
     <div id="slider1" class="rev_slider"  data-version="5.0">
         <ul>
-            
-            <li data-transition="fade">
-                <img src="images/slider/1.jpg"  alt="" width="1920" height="683" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
-                
-                <div class="tp-caption tp-resizeme"
-                    data-x="right" data-hoffset="0" 
-                    data-y="center" data-voffset="0" 
-                    data-transform_idle="o:1;"         
-                    data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" 
-                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
-                    data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" 
-                    data-splitin="none" 
-                    data-splitout="none"  
-                    data-responsive_offset="on"
-                    data-start="500">
-                    <div class="slide-content-box">
-                        <h1>Business Coaching <br>and consulting </h1>
-                        <p>With over 10 years of experience helping businesses to find <br>comprehensive solutions.  </p>
-                    </div>
-                </div>
-                <div class="tp-caption tp-resizeme" 
-                    data-x="left" data-hoffset="632" 
-                    data-y="center" data-voffset="165" 
-                    data-transform_idle="o:1;"                         
-                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
-                    data-splitin="none" 
-                    data-splitout="none" 
-                    data-responsive_offset="on"
-                    data-start="2300">
-                    <div class="slide-content-box">
-                        <div class="button">
-                            <a class="thm-btn-tr" href="#">OUR COMPANY</a>     
-                        </div>
-                    </div>
-                </div>
-                <div class="tp-caption tp-resizeme" 
-                    data-x="left" data-hoffset="837" 
-                    data-y="center" data-voffset="165" 
-                    data-transform_idle="o:1;"                         
-                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
-                    data-splitin="none" 
-                    data-splitout="none" 
-                    data-responsive_offset="on"
-                    data-start="2600">
-                    <div class="slide-content-box">
-                        <div class="button">
-                            <a class="thm-btn" href="contact.php">CONTACT US</a>     
-                        </div>
-                    </div>
-                </div>
-            </li>
             <li data-transition="fade">
                 <img src="images/slider/2.jpg"  alt="" width="1920" height="683" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
                 
@@ -85,8 +32,8 @@
                     data-responsive_offset="on"
                     data-start="500">
                     <div class="slide-content-box center">
-                        <h1>Your Growth is Our Target</h1>
-                        <p>With over 25 years of experience helping businesses to find <br>comprehensive solutions.  </p>
+                        <h1>Multitude Tech</h1>
+                        <p>With you we are multitude, Whithout you we are zero</p>
                     </div>
                 </div>
                 <div class="tp-caption tp-resizeme" 
@@ -123,24 +70,8 @@
                     data-responsive_offset="on"
                     data-start="700">
                     <div class="slide-content-box">
-                        <h1>Looking for first class <br>business plan?</h1>
-                        <p>With over 10 years of experience helping businesses to find <br>comprehensive solutions. </p>
-                    </div>
-                </div>
-                <div class="tp-caption tp-resizeme" 
-                    data-x="left" data-hoffset="15" 
-                    data-y="top" data-voffset="470" 
-                    data-transform_idle="o:1;"                         
-                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
-                    data-splitin="none" 
-                    data-splitout="none" 
-                    data-responsive_offset="on"
-                    data-start="2300">
-                    <div class="slide-content-box">
-                        <div class="button">
-                            <a class="thm-btn-tr" href="#">our company</a>     
-                        </div>
+                        <h1>You have a business?</h1>
+                        <p>We are here to develop your business</p>
                     </div>
                 </div>
                 <div class="tp-caption tp-resizeme" 
@@ -168,9 +99,9 @@
     <div class="container">
         
         <div class="section-title center">
-            <h2>Why Choosing The Expeart</h2>
+            <h2>Why Choosing Us</h2>
             <div class="text">
-                <p>We are experts in this industry with over 100 years experience. What that means is you are going to get right <br> solution. please find our services.</p>
+                <p>We are experts in this industry with over 2+ years of experience. What that means is you are going to get right <br> solution. please find our services.</p>
             </div>
         </div>
             
@@ -243,10 +174,9 @@
                         </figcaption>
                     </figure>
                     <div class="content center">
-                        <h5>Service #1</h5>
-                        <a href="service-1.php"><h4>Business Growth</h4></a>
+                        <a href="service-5.php"><h4>Web Development</h4></a>
                         <div class="text">
-                            <p>The process of improving some of <br>our an enterprise's success. Business <br>growth can be a achieved.</p>
+                            <p>Multitude Tech is offering effective and innovative Website Design and Web Development Services in World wide.</p>
                         </div>
                     </div>
                 </div>
@@ -265,10 +195,9 @@
                         </figcaption>
                     </figure>
                     <div class="content center">
-                        <h5>Service #2</h5>
-                        <a href="service-2.php"><h4>Sustainability</h4></a>
+                        <a href="service-5.php"><h4>Mobile Applications</h4></a>
                         <div class="text">
-                            <p>When it comes to sustainability & <br>corporate responsibility, we believe <br>thenormal rules of business.</p>
+                            <p>Multitude Tech offers Mobile Application Development Services for Android and iPhone Mobile App Development Services...</p>
                         </div>
                     </div>
                 </div>
@@ -287,10 +216,9 @@
                         </figcaption>
                     </figure>
                     <div class="content center">
-                        <h5>Service #3</h5>
-                        <a href="service-3.php"><h4>Performance</h4></a>
+                        <a href="service-5.php"><h4>Web Design</h4></a>
                         <div class="text">
-                            <p>In a contract, performance deemed <br> to be the fulfillment of an obligation <br>in a manner that releases.</p>
+                            <p>Multitude Tech a complete package of service of professional web designers including logo design, corporate identity development, multimedia...</p>
                         </div>
                     </div>
                 </div>
@@ -309,15 +237,80 @@
                         </figcaption>
                     </figure>
                     <div class="content center">
-                        <h5>Service #4</h5>
-                        <a href="service-5.php"><h4>Organization</h4></a>
+                        <a href="service-5.php"><h4>Digital Marketing</h4></a>
                         <div class="text">
-                            <p>We help business improve financial <br>performaance by ensuring the entire <br>organization system is aligned.</p>
+                            <p>Deemtech has its consistent leadership in Search Engine Optimization. The company is well- known for proposing solutions for business growth...</p>
                         </div>
                     </div>
                 </div>
             </article>
             
+        </div>
+
+        <div class="service_carousel">
+            <!--Featured Service -->
+            <article class="single-column">
+                <div class="item">
+                    <figure class="img-box">
+                        <img src="images/service/4.jpg" alt="">
+                        <figcaption class="default-overlay-outer">
+                            <div class="inner">
+                                <div class="content-layer">
+                                    <a href="service-4.php" class="thm-btn thm-tran-bg">read more</a>
+                                </div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                    <div class="content center">
+                        <a href="service-5.php"><h4>SEO</h4></a>
+                        <div class="text">
+                            <p>Search engine optimization is the new mantra for promoting your website and the organic site visit.</p>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            <!--Featured Service -->
+            <article class="single-column">
+                <div class="item">
+                    <figure class="img-box">
+                        <img src="images/service/4.jpg" alt="">
+                        <figcaption class="default-overlay-outer">
+                            <div class="inner">
+                                <div class="content-layer">
+                                    <a href="service-4.php" class="thm-btn thm-tran-bg">read more</a>
+                                </div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                    <div class="content center">
+                        <a href="service-5.php"><h4>Graphics Designing</h4></a>
+                        <div class="text">
+                            <p>Multitude Tech expert in make brand identity. Brand is very valuable asset of any business. Never compromise in branding.</p>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            <!--Featured Service -->
+            <article class="single-column">
+                <div class="item">
+                    <figure class="img-box">
+                        <img src="images/service/4.jpg" alt="">
+                        <figcaption class="default-overlay-outer">
+                            <div class="inner">
+                                <div class="content-layer">
+                                    <a href="service-4.php" class="thm-btn thm-tran-bg">read more</a>
+                                </div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                    <div class="content center">
+                        <a href="service-5.php"><h4>Maintenance & Support</h4></a>
+                        <div class="text">
+                            <p>Multitude Tech provides maintenance and support services restoring from expensive in-house support staff.</p>
+                        </div>
+                    </div>
+                </div>
+            </article>
         </div>
             
     </div>
@@ -328,38 +321,29 @@
         <div class="row clearfix">
             <div class="counter-outer clearfix">
                 <!--Column-->
-                <article class="column counter-column col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="0ms">
+                <article class="column counter-column col-md-4 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="0ms">
                     <div class="item">
-                        <div class="count-outer"><span class="count-text" data-speed="3000" data-stop="107">0</span></div>
-                        <h4 class="counter-title">Experienced Consultants</h4>
+                        <div class="count-outer"><span class="count-text" data-speed="3000" data-stop="50">0</span>+</div>
+                        <h4 class="counter-title">Satisfied Customers</h4>
                         <div class="icon"><i class="icon-people3"></i></div>
                     </div>
                         
                 </article>
                 
                 <!--Column-->
-                <article class="column counter-column col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="0ms">
+                <article class="column counter-column col-md-4 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="0ms">
                     <div class="item">
-                        <div class="count-outer"><span class="count-text" data-speed="3000" data-stop="2000">0</span></div>
+                        <div class="count-outer"><span class="count-text" data-speed="3000" data-stop="75">0</span>+</div>
                         <h4 class="counter-title">Sucessfull Projects</h4>
                         <div class="icon"><i class="icon-technology3"></i></div>
                     </div>
                 </article>
                 
                 <!--Column-->
-                <article class="column counter-column col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="0ms">
+                <article class="column counter-column col-md-4 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="0ms">
                     <div class="item">
-                        <div class="count-outer"><span class="count-text" data-speed="3000" data-stop="47">0</span></div>
-                        <h4 class="counter-title">Winning Awards</h4>
-                        <div class="icon"><i class="icon-sports"></i></div>
-                    </div>
-                </article>
-                
-                <!--Column-->
-                <article class="column counter-column col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="0ms">
-                    <div class="item">
-                        <div class="count-outer"><span class="count-text" data-speed="3000" data-stop="100">0</span>%</div>
-                        <h4 class="counter-title">Satisfied Customers</h4>
+                        <div class="count-outer">11 June</div>
+                        <h4 class="counter-title">Since 2015</h4>
                         <div class="icon"><i class="icon-square2"></i></div>
                     </div>
                 </article>
@@ -385,39 +369,20 @@
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 column style-2">
                 <div class="section-title">
-                    <h2>What We Do</h2>
+                    <h2>How We Work</h2>
                 </div>
                 <div class="content">
                     <div class="text">
-                        <p>We are experts in this field with over 100 years <br>experience. What that means is you are going to <br>get right solution. please find our services.</p>
+                        <p>We provide oreginal and creative work that helps your brand stand out.</p>
                     </div>
                     <ul class="list">
-                        <li><a href="service-1.php"><i class="fa fa-check-circle-o"></i>Business Growth</a></li>
-                        <li><a href="service-2.php"><i class="fa fa-check-circle-o"></i>Sustainability</a></li>
-                        <li><a href="service-3.php"><i class="fa fa-check-circle-o"></i>Performance</a></li>
-                        <li><a href="service-4.php"><i class="fa fa-check-circle-o"></i>Advanced Analytics</a></li>
-                        <li><a href="service-5.php"><i class="fa fa-check-circle-o"></i>Customer Insights</a></li>
-                        <li><a href="service-6.php"><i class="fa fa-check-circle-o"></i>Organization</a></li>
+                        <li><a href="service-1.php"><i class="fa fa-check-circle-o"></i>Discovery</a></li>
+                        <li><a href="service-2.php"><i class="fa fa-check-circle-o"></i>Strategy & Planning</a></li>
+                        <li><a href="service-3.php"><i class="fa fa-check-circle-o"></i>Design</a></li>
+                        <li><a href="service-4.php"><i class="fa fa-check-circle-o"></i>Build & Integration</a></li>
+                        <li><a href="service-5.php"><i class="fa fa-check-circle-o"></i>Test & Launch</a></li>
+                        <li><a href="service-6.php"><i class="fa fa-check-circle-o"></i>Access & Evolve</a></li>
                     </ul>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 col-xs-12 column style-3">
-                <div class="section-title">
-                    <h2>Business Growth</h2>
-                </div>
-                <div class="graph">
-                    <figure class="graph-img"><img src="images/resource/graph1.jpg" alt=""></figure>
-                    <form action="#" class="default-form">
-                        <div class="select-box">
-                            <select class="text-capitalize selectpicker form-control required" name="form_subject" data-style="g-select" data-width="100%">
-                                <option>Last 6 Months</option>
-                                <option>Last 7 Months</option>
-                                <option>Last 8 Months</option>
-                                <option>Last 9 Months</option>
-                            </select>
-                        </div>
-                    </form>
-                        
                 </div>
             </div>
             
