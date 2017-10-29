@@ -8,7 +8,7 @@
             </div>
             <div class="col-md-9 col-sm-12">
                 <div class="float_left">
-                    <h4>Over 20 years of experience we’ll ensure you get the best guidance.</h4>
+                    <h4>Over 7 years of experience we’ll ensure you get the best guidance.</h4>
                 </div>
                 <div class="float_right">
                     <a href="contact.php" class="thm-btn-tr">Request Quote</a>
@@ -35,9 +35,11 @@
                                 <h3 class="footer-title">About Us</h3>
                                 
                                 <div class="widget-content">
-                                    <div class="text"><p>The Experts consulting over 20 years of experience we’ll ensure you always get the best guidance. We serve a clients at every level of their organization, in whatever capacity we can be most useful, whether as a trusted advisor.</p> </div>
+                                    <div class="text"><p>Multitudetech is a software outsourcing IT company in Ahmedabad, specialized in website
+designing, website development, E-Commerce solutions, website redesign, website
+maintenance, web hosting, Project training and SEO Services.</p> </div>
                                     <div class="link">
-                                        <a href="/about.php" class="default_link">More About us <i class="fa fa-angle-right"></i></a>
+                                        <a href="about.php" class="default_link">More About us <i class="fa fa-angle-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -48,12 +50,10 @@
                                 <h3 class="footer-title">Our Services</h3>
                                 <div class="widget-content">
                                     <ul class="list">
-                                        <li><a href="service-1.php">Business Growth</a></li>
-                                        <li><a href="service-2.php">Sustainability</a></li>
-                                        <li><a href="service-3.php">Performance</a></li>
-                                        <li><a href="service-4.php">Advanced Analytics</a></li>
-                                        <li><a href="service-5.php">Customer Insights</a></li>
-                                        <li><a href="service-6.php">Organization</a></li>
+                                        <li>Responsive web design</li>
+                                        <li>E commerce development</li>
+                                        <li>Web application development</li>
+                                        <li>Mobile application development</li>
                                     </ul>
                                 </div>
                             </div>
@@ -73,16 +73,10 @@
                                 <div class="widget-content">
                                     <ul class="contact-info">
                                         <li><span class="icon-signs"></span>Ahmedabad</li>
-                                        <li><span class="icon-phone-call"></span> Phone: +123-456-7890</li>
+                                        <li><span class="icon-phone-call"></span> Phone: +91 79846 30384</li>
                                         <li><span class="icon-e-mail-envelope"></span>info@multitudetech.com</li>
                                     </ul>
                                 </div>
-                                <ul class="social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                </ul>
                             </div>
                         </div>
 

@@ -101,7 +101,12 @@
         <div class="section-title center">
             <h2>Why Choosing Us</h2>
             <div class="text">
-                <p>We are experts in this industry with over 2+ years of experience. What that means is you are going to get right <br> solution. please find our services.</p>
+                <p>We are experts in this industry with over 10 years of experience. Which means you are going to
+get right solution. Our team of highly experienced system analysts, solution architects and
+software developers have a deep understanding of a wide range of technologies so we can
+choose the right technical solution for your business. More importantly, we know how to
+develop only the software that is needed and adds value to your ongoing business operation.
+Please find our services.</p>
             </div>
         </div>
             
@@ -168,15 +173,16 @@
                         <figcaption class="default-overlay-outer">
                             <div class="inner">
                                 <div class="content-layer">
-                                    <a href="service-1.php" class="thm-btn thm-tran-bg">read more</a>
                                 </div>
                             </div>
                         </figcaption>
                     </figure>
                     <div class="content center">
-                        <a href="service-5.php"><h4>Web Development</h4></a>
+                        <a href="service-5.php"><h4>Responsive web design</h4></a>
                         <div class="text">
-                            <p>Multitude Tech is offering effective and innovative Website Design and Web Development Services in World wide.</p>
+                            <p>A flawlessly working website. You need it. Everyone needs it. Hence, we
+make sure your user gets amazing experiences no matter your business
+size. We make you the star of your industry.</p>
                         </div>
                     </div>
                 </div>
@@ -189,15 +195,16 @@
                         <figcaption class="default-overlay-outer">
                             <div class="inner">
                                 <div class="content-layer">
-                                    <a href="service-2.php" class="thm-btn thm-tran-bg">read more</a>
                                 </div>
                             </div>
                         </figcaption>
                     </figure>
                     <div class="content center">
-                        <a href="service-5.php"><h4>Mobile Applications</h4></a>
+                        <a href="service-5.php"><h4>E commerce development</h4></a>
                         <div class="text">
-                            <p>Multitude Tech offers Mobile Application Development Services for Android and iPhone Mobile App Development Services...</p>
+                            <p>We help you in your journey form bricks and mortar to electronic
+commerce. We capture the essence of your business and maximize your
+target audience.</p>
                         </div>
                     </div>
                 </div>
@@ -210,15 +217,15 @@
                         <figcaption class="default-overlay-outer">
                             <div class="inner">
                                 <div class="content-layer">
-                                    <a href="service-3.php" class="thm-btn thm-tran-bg">read more</a>
                                 </div>
                             </div>
                         </figcaption>
                     </figure>
                     <div class="content center">
-                        <a href="service-5.php"><h4>Web Design</h4></a>
+                        <a href="service-5.php"><h4>Web application development</h4></a>
                         <div class="text">
-                            <p>Multitude Tech a complete package of service of professional web designers including logo design, corporate identity development, multimedia...</p>
+                            <p>Leverage the power of internet, our experience and resources to deploy
+full spectrum of applications that meet your business needs and budget.</p>
                         </div>
                     </div>
                 </div>
@@ -231,86 +238,20 @@
                         <figcaption class="default-overlay-outer">
                             <div class="inner">
                                 <div class="content-layer">
-                                    <a href="service-4.php" class="thm-btn thm-tran-bg">read more</a>
                                 </div>
                             </div>
                         </figcaption>
                     </figure>
                     <div class="content center">
-                        <a href="service-5.php"><h4>Digital Marketing</h4></a>
+                        <a href="service-5.php"><h4>Mobile application development</h4></a>
                         <div class="text">
-                            <p>Deemtech has its consistent leadership in Search Engine Optimization. The company is well- known for proposing solutions for business growth...</p>
+                            <p>From simple phones to custom devices, we’ve a track record of providing
+the perfect app solution to your unique ideas.</p>
                         </div>
                     </div>
                 </div>
             </article>
             
-        </div>
-
-        <div class="service_carousel">
-            <!--Featured Service -->
-            <article class="single-column">
-                <div class="item">
-                    <figure class="img-box">
-                        <img src="images/service/4.jpg" alt="">
-                        <figcaption class="default-overlay-outer">
-                            <div class="inner">
-                                <div class="content-layer">
-                                    <a href="service-4.php" class="thm-btn thm-tran-bg">read more</a>
-                                </div>
-                            </div>
-                        </figcaption>
-                    </figure>
-                    <div class="content center">
-                        <a href="service-5.php"><h4>SEO</h4></a>
-                        <div class="text">
-                            <p>Search engine optimization is the new mantra for promoting your website and the organic site visit.</p>
-                        </div>
-                    </div>
-                </div>
-            </article>
-            <!--Featured Service -->
-            <article class="single-column">
-                <div class="item">
-                    <figure class="img-box">
-                        <img src="images/service/4.jpg" alt="">
-                        <figcaption class="default-overlay-outer">
-                            <div class="inner">
-                                <div class="content-layer">
-                                    <a href="service-4.php" class="thm-btn thm-tran-bg">read more</a>
-                                </div>
-                            </div>
-                        </figcaption>
-                    </figure>
-                    <div class="content center">
-                        <a href="service-5.php"><h4>Graphics Designing</h4></a>
-                        <div class="text">
-                            <p>Multitude Tech expert in make brand identity. Brand is very valuable asset of any business. Never compromise in branding.</p>
-                        </div>
-                    </div>
-                </div>
-            </article>
-            <!--Featured Service -->
-            <article class="single-column">
-                <div class="item">
-                    <figure class="img-box">
-                        <img src="images/service/4.jpg" alt="">
-                        <figcaption class="default-overlay-outer">
-                            <div class="inner">
-                                <div class="content-layer">
-                                    <a href="service-4.php" class="thm-btn thm-tran-bg">read more</a>
-                                </div>
-                            </div>
-                        </figcaption>
-                    </figure>
-                    <div class="content center">
-                        <a href="service-5.php"><h4>Maintenance & Support</h4></a>
-                        <div class="text">
-                            <p>Multitude Tech provides maintenance and support services restoring from expensive in-house support staff.</p>
-                        </div>
-                    </div>
-                </div>
-            </article>
         </div>
             
     </div>

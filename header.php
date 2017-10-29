@@ -31,9 +31,8 @@
             <div class="col-right float_right">
                 <ul class="social">
                     <li>Stay Connected: </li>
-                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="https://www.facebook.com/multitudetech"><i class="fa fa-facebook"></i></a></li>
+                    <!-- <li><a href="#"><i class="fa fa-linkedin"></i></a></li> -->
                 </ul>
                 <div class="link">
                     <a href="contact.php" class="thm-btn">get a quote</a>
@@ -72,66 +71,45 @@
 
                             <li class="dropdown"><a href="#">About us</a>
                                 <ul class="submenu">
-                                    <li><a href="/about.php">About us</a></li>
-                                    <li><a href="/team.php">Meet Our Team</a></li>
-                                    <li><a href="/faq.php">FAQ’s</a></li>
-                                    <li><a href="/testimonials.php">Client Feedback</a></li>
+                                    <li><a href="about.php">About us</a></li>
+                                    <li><a href="faq.php">FAQ’s</a></li>
+                                    <li><a href="testimonials.php">Client Feedback</a></li>
 
                                 </ul>
                             </li>
 
                             <li class="dropdown"><a href="/service.php">services</a>
-                                <ul class="submenu">
-                                    <li><a href="/service-1.php">Business Growth</a></li>
-                                    <li><a href="/service-2.php">Sustainability</a></li>
-                                    <li><a href="/service-3.php">Performance</a></li>
-                                    <li><a href="/service-4.php">Advanced Analytics</a></li>
-                                    <li><a href="/service-5.php">Organization</a></li>
-                                    <li><a href="/service-6.php">Customer Insights</a></li>
-
-                                 </ul>
-                                
                             </li>
 
-                            <li><a href="/projects.php">PROJECTS</a></li>
+                            <li><a href="projects.php">PROJECTS</a></li>
 
-                            <li class="dropdown"><a href="/blog">blog</a></li>
+                            <li class="dropdown"><a href="blog">blog</a></li>
 
-                            <li><a href="/contact.php">CONTACT US</a></li>
+                            <li><a href="contact.php">CONTACT US</a></li>
 
                         </ul>
                         
                         <ul class="mobile-menu clearfix">
 
-                            <li><a href="/index.php">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
 
                             <li class="dropdown"><a href="#">About us</a>
                                 <ul>
-                                    <li><a href="/about.php">About us</a></li>
-                                    <li><a href="/team.php">Meet Our Team</a></li>
-                                    <li><a href="/faq.php">FAQ’s</a></li>
-                                    <li><a href="/testimonials.php">Client Feedback</a></li>
+                                    <li><a href="about.php">About us</a></li>
+                                    <li><a href="faq.php">FAQ’s</a></li>
+                                    <li><a href="testimonials.php">Client Feedback</a></li>
 
                                 </ul>
                             </li>
 
                             <li class="dropdown"><a href="/service.php">services</a>
-                                <ul>
-                                    <li><a href="/service-1.php">Business Growth</a></li>
-                                    <li><a href="/service-2.php">Sustainability</a></li>
-                                    <li><a href="/service-3.php">Performance</a></li>
-                                    <li><a href="/service-4.php">Advanced Analytics</a></li>
-                                    <li><a href="/service-5.php">Organization</a></li>
-                                    <li><a href="/service-6.php">Customer Insights</a></li>
-                                 </ul>
-                                
                             </li>
 
-                            <li class="dropdown"><a href="/projects.php">PROJECTS</a></li>
+                            <li class="dropdown"><a href="projects.php">PROJECTS</a></li>
                             
-                            <li><a href="/blog">blog</a></li>
+                            <li><a href="blog">blog</a></li>
 
-                            <li><a href="/contact.php">CONTACT US</a></li>
+                            <li><a href="contact.php">CONTACT US</a></li>
                         </ul>
                     </div>
                 </nav> <!-- End of #main_menu -->

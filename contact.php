@@ -41,7 +41,7 @@
                     </div>
                     <h4>Office Schedule</h4>
                     <div class="text">
-                        <p>Monday to Saturday: 09.00am to 18.00pm <br>Sunday: Closed</p>
+                        <p>Monday to Friday: 10.00am to 19.00pm</p>
                     </div>
                 </div>
             </div>
@@ -52,7 +52,7 @@
                     </div>
                     <h4>Quick Contact</h4>
                     <div class="text">
-                        <p><!-- Ph: +321 456 78 9012 <br> -->Email: Iinfo@multitudetech.com</p>
+                        <p>Email: info@multitudetech.com</p>
                     </div>
                 </div>
             </div>

@@ -29,15 +29,20 @@
                 <div class="text-content">
                     <h4>We are always looking for specific approach to each <br>cases & Provide full solutions.</h4>
                     <div class="text">
-                        <p>We have built an enviable reputation in the consumer goods, heavy industry, high-tech, manufacturing, medical, recreational vehicle, and transportation sectors. multidisciplinary team of engineering experts.</p>
+                        <p>Multitudetech is a software outsourcing IT company in Ahmedabad, specialized in website
+designing, website development, E-Commerce solutions, website redesign, website
+maintenance, web hosting, Project training and SEO Services.</p>
                     </div>
-                    <ul class="default-list">
-                        <li><i class="fa fa-check-square-o"></i>Which toil and pain can procure great pleasure.</li>
-                        <li><i class="fa fa-check-square-o"></i>Any right to find man who annoying.</li>
-                        <li><i class="fa fa-check-square-o"></i>Consequences, avoids a pain that produces.</li>
-                    </ul>
                     <div class="text">
-                        <p>Who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain.</p>
+                        <p>We become technology partners to
+our customers, nurture long term, mutually beneficial relationships and ensure they get optimal
+returns on their IT investments.</p>
+                    </div>
+                    <div class="text">
+                        <p>Our cutting edge solutions ensure quick go-to- market for new product ideas. We are based at
+Ahmedabad, operating since 2010, and with an experienced team of business consultants, project
+and technology managers,
+web designers, software developers and infrastructure solution experts.</p>
                     </div>
                 </div>
             </div>
@@ -63,7 +68,7 @@
 <section class="service-style3 sec-padd2">
     <div class="container">
         <div class="section-title">
-            <h2>Our Smart Approach</h2>
+            <h2>Our Clients</h2>
         </div>
         <div class="service_carousel">
             <div class="item">
@@ -73,21 +78,17 @@
                     <div class="icon_box">
                         <span class="icon-money2"></span>
                     </div>
-                    <a href="#"><h4>Financial Service</h4></a>
-                    <p class="title">Trusted</p>    
+                    <a href="http://www.knowamp.com/"><h4>KnowAmp</h4></a>
+                    <p class="title">AMPs QA Community</p>    
                 </div>
                 <div class="overlay-box">
                     <div class="inner-box">
                         <div class="icon_box">
                         <span class="icon-money2"></span>
                         </div>
-                        <a href="#"><h4>Financial Service</h4></a>
-                        <p class="title">Trusted</p> 
-                        <div class="text">
-                            <p>Electronic Materials has servd the semicondctor industry as a leading-edge materials.</p>
-                        </div>
+                        <a href="http://www.knowamp.com"><h4>KnowAmp</h4></a>
+                        <p class="title">AMPs QA Community</p> 
                     </div>
-                        
                 </div>  
                 
             </div>
@@ -98,19 +99,16 @@
                     <div class="icon_box">
                         <span class="icon-landscape"></span>
                     </div>
-                    <a href="#"><h4>Manufacturing</h4></a>
-                    <p class="title">Large Scale</p>    
+                    <a href="http://www.prajapatisangam.com/"><h4>Prajapati Sangam</h4></a>
+                    <p class="title">Community</p>    
                 </div>
                 <div class="overlay-box">
                     <div class="inner-box">
                         <div class="icon_box">
                         <span class="icon-landscape"></span>
                         </div>
-                        <a href="#"><h4>Manufacturing</h4></a>
-                        <p class="title">Large Scale</p> 
-                        <div class="text">
-                            <p>Electronic Materials has servd the semicondctor industry as a leading-edge materials.</p>
-                        </div>
+                        <a href="http://www.prajapatisangam.com/"><h4>Prajapati Sangam</h4></a>
+                        <p class="title">Community</p>
                     </div>
                         
                 </div>  
@@ -123,21 +121,17 @@
                     <div class="icon_box">
                         <span class="icon-medical"></span>
                     </div>
-                    <a href="#"><h4>Health Department</h4></a>
-                    <p class="title">Corporation</p>    
+                    <a href="http://www.rajkotvataliyaprajapati.com"><h4>Vataliya Prajapati</h4></a>
+                    <p class="title">Samaj</p>    
                 </div>
                 <div class="overlay-box">
                     <div class="inner-box">
                         <div class="icon_box">
                         <span class="icon-medical"></span>
                         </div>
-                        <a href="#"><h4>Health Department</h4></a>
-                        <p class="title">Corporation</p> 
-                        <div class="text">
-                            <p>Electronic Materials has servd the semicondctor industry as a leading-edge materials.</p>
-                        </div>
+                        <a href="http://www.rajkotvataliyaprajapati.com"><h4>Vataliya Prajapati</h4></a>
+                        <p class="title">Samaj</p>
                     </div>
-                        
                 </div>  
                 
             </div>
@@ -148,21 +142,17 @@
                     <div class="icon_box">
                         <span class="icon-transport"></span>
                     </div>
-                    <a href="#"><h4>Surface Transport</h4></a>
-                    <p class="title">Very Economy</p>    
+                    <a href="#"><h4>Shiv Om</h4></a>
+                    <p class="title">Brass Industry</p>    
                 </div>
                 <div class="overlay-box">
                     <div class="inner-box">
                         <div class="icon_box">
                         <span class="icon-transport"></span>
                         </div>
-                        <a href="#"><h4>Surface Transport</h4></a>
-                        <p class="title">Very Economy</p> 
-                        <div class="text">
-                            <p>Electronic Materials has servd the semicondctor industry as a leading-edge materials.</p>
-                        </div>
+                        <a href="#"><h4>Shiv Om</h4></a>
+                        <p class="title">Brass Industry</p> 
                     </div>
-                        
                 </div>  
                 
             </div>
@@ -170,113 +160,6 @@
         </div>
 
     </div>
-</section>
-
-<section class="our-team sec-padd2">
-    <div class="container">
-        <div class="section-title">
-            <h2>Meat Our team</h2>
-        </div>  
-        <div class="row">
-            <article class="col-md-3 col-sm-6 col-xs-12">
-                <div class="single-team-member">
-                    <figure class="img-box">
-                        <a href="#"><img src="images/team/t1.jpg" alt=""></a>
-                        <div class="overlay">
-                            <div class="inner-box">
-                                <ul class="social">
-                                    <li><a href="https://www.facebook.com/sanketpatel2108"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://twitter.com/smp2108"><i class="fa fa-twitter"></i></a></li>
-                                </ul>
-                            </div>
-                                
-                        </div>
-                    </figure>
-                    <div class="author-info">
-                        <a href="#"><h4>Sanket Patel</h4></a>
-                        <p>Web Designer & Developer</p>
-                        <ul>
-                            <li><i class="fa fa-envelope"></i><a href="mailto:sanket@multitudetech.com">sanket@multitudetech.com</a></li>
-                        </ul>
-                    </div>
-                        
-                </div>
-            </article>
-            <article class="col-md-3 col-sm-6 col-xs-12">
-                <div class="single-team-member">
-                    <figure class="img-box">
-                        <a href="#"><img src="images/team/t2.jpg" alt=""></a>
-                        <div class="overlay">
-                            <div class="inner-box">
-                                <ul class="social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                </ul>
-                            </div>
-                                
-                        </div>
-                    </figure>
-                    <div class="author-info">
-                        <a href="#"><h4>Tejas Ambalia</h4></a>
-                        <p>Web Developer</p>
-                        <ul>
-                            <li><i class="fa fa-envelope"></i><a href="mailto:tejas@multitudetech.com">tejas@multitudetech.com</a></li>
-                        </ul>
-                    </div>
-                        
-                </div>
-            </article>
-            <article class="col-md-3 col-sm-6 col-xs-12">
-                <div class="single-team-member">
-                    <figure class="img-box">
-                        <a href="#"><img src="images/team/t3.jpg" alt=""></a>
-                        <div class="overlay">
-                            <div class="inner-box">
-                                <ul class="social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                </ul>
-                            </div>
-                                
-                        </div>
-                    </figure>
-                    <div class="author-info">
-                        <a href="#"><h4>Rupal Bapodara</h4></a>
-                        <p>Web Developer</p>
-                        <ul>
-                            <li><i class="fa fa-envelope"></i><a href="mailto:rupal@multitudetech.com">rupal@multitudetech.com</a></li>
-                        </ul>
-                    </div>
-                        
-                </div>
-            </article>
-            <article class="col-md-3 col-sm-6 col-xs-12">
-                <div class="single-team-member">
-                    <figure class="img-box">
-                        <a href="#"><img src="images/team/t4.jpg" alt=""></a>
-                        <div class="overlay">
-                            <div class="inner-box">
-                                <ul class="social">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                </ul>
-                            </div>
-                                
-                        </div>
-                    </figure>
-                    <div class="author-info">
-                        <a href="#"><h4>Aarthi Nair</h4></a>
-                        <p>PC & Administrator</p>
-                        <ul>
-                            <li><i class="fa fa-envelope"></i><a href="mailto:aarthi@multitudetech.com">aarthi@multitudetech.com</a></li>
-                        </ul>
-                    </div>
-                        
-                </div>
-            </article>                
-        </div>
-    </div>
-
 </section>
 
 <section class="subscribe center sec-padd" style="background-image: url(images/background/2.jpg);">

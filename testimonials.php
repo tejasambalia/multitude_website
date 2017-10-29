@@ -27,15 +27,16 @@
         <div class="row masonary-layout">
             <div class="col-md-3 col-sm-4 col-xs-6">
                 <div class="single-testimonial center">
-                    <figure class="img-box">
+                    <!-- <figure class="img-box">
                         <a href="#"><img src="images/team/1.png" alt=""></a>
-                    </figure>
+                    </figure> -->
                     <div class="content">
                         
-                        <div class="text"><p> Who loves or pursues or desires <br> to obtain pain of itself, because it <br>can procure great pleasure. </p></div>
+                        <div class="text"><p> Multitudetech understands today’s web, but that’s not what makes them stand apart.
+They also understand today’s business world and how to keep their customers happy. </p></div>
 
-                        <h4>Allen Duckeat</h4>
-                        <p class="author-title"><a href="#"> Newyork</a></p>
+                        <h4>Abhishek Javli</h4>
+                        <p class="author-title"><a href="#"> KnowAmp</a></p>
                     </div>
                     
                         
@@ -44,66 +45,17 @@
             </div>
             <div class="col-md-3 col-sm-4 col-xs-6">
                 <div class="single-testimonial center">
-                    <figure class="img-box">
-                        <a href="#"><img src="images/team/2.png" alt=""></a>
-                    </figure>
-                    <div class="content">
-                        
-                        <div class="text"><p> To taken a trivial example, which of <br> us ever undertakes it laborious <br>physical exercise works. </p></div>
-
-                        <h4>Steve Bairstow </h4>
-                        <p class="author-title"><a href="#"> California</a></p>
-                    </div>
-                    
-                        
-
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-4 col-xs-6">
-                <div class="single-testimonial center">
-                    <figure class="img-box">
-                        <a href="#"><img src="images/team/3.png" alt=""></a>
-                    </figure>
-                    <div class="content">
-                        
-                        <div class="text"><p> Which is the same saying through <br>shrinking from toil and pains. These <br>cases are perfectly simple & easy <br> to distinguish. In a free hour, when <br>our power oft we like best.</p></div>
-
-                        <h4>Steve Bairstow </h4>
-                        <p class="author-title"><a href="#"> California</a></p>
-                    </div>
-                    
-                        
-
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-4 col-xs-6">
-                <div class="single-testimonial center">
-                    <figure class="img-box">
-                        <a href="#"><img src="images/team/4.png" alt=""></a>
-                    </figure>
-                    <div class="content">
-                        
-                        <div class="text"><p> Pleasure is to be welcomed every <br>pain avoided. But in certain claims of <br>duty or the obligations. </p></div>
-
-                        <h4>Don Flethcer</h4>
-                        <p class="author-title"><a href="#"> Detroit</a></p>
-                    </div>
-                    
-                        
-
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-4 col-xs-6">
-                <div class="single-testimonial center">
-                    <figure class="img-box">
+                    <!-- <figure class="img-box">
                         <a href="#"><img src="images/team/5.png" alt=""></a>
-                    </figure>
+                    </figure> -->
                     <div class="content">
                         
-                        <div class="text"><p> Pleasure is to be welcomed every <br>pain avoided. But in certain claims of <br>duty or the obligations. </p></div>
+                        <div class="text"><p> Thank you multitudetech. It was a great experience working with you guys. Team was
+very professional, delivery was on time. My needs were very well understood and
+despite the complexity result was upto expectations. </p></div>
 
-                        <h4>Don Flethcer</h4>
-                        <p class="author-title"><a href="#"> Detroit</a></p>
+                        <h4>Ramesh Ambalia </h4>
+                        <p class="author-title"><a href="#"> Prajapati Sangam</a></p>
                     </div>
                     
                         
@@ -112,32 +64,17 @@
             </div>
             <div class="col-md-3 col-sm-4 col-xs-6">
                 <div class="single-testimonial center">
-                    <figure class="img-box">
-                        <a href="#"><img src="images/team/6.png" alt=""></a>
-                    </figure>
-                    <div class="content">
-                        
-                        <div class="text"><p> Which is the same saying through <br>shrinking from toil and pains. These <br>cases are perfectly simple & easy <br> to distinguish. In a free hour, when <br>our power oft we like best.</p></div>
-
-                        <h4>Steve Bairstow </h4>
-                        <p class="author-title"><a href="#"> California</a></p>
-                    </div>
-                    
-                        
-
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-4 col-xs-6">
-                <div class="single-testimonial center">
-                    <figure class="img-box">
+                    <!-- <figure class="img-box">
                         <a href="#"><img src="images/team/7.png" alt=""></a>
-                    </figure>
+                    </figure> -->
                     <div class="content">
                         
-                        <div class="text"><p> Who loves or pursues or desires <br> to obtain pain of itself, because it <br>can procure great pleasure. </p></div>
+                        <div class="text"><p> It has been a pleasure to work with multitude and its team on this challenging project.
+They have been 100 % professional and willing to solve any issues without any
+complaints.</p></div>
 
-                        <h4>Allen Duckeat</h4>
-                        <p class="author-title"><a href="#"> Newyork</a></p>
+                        <h4>Mansukh Dhandhukiya </h4>
+                        <p class="author-title"><a href="#"> Vataliya Prajapati</a></p>
                     </div>
                     
                         
@@ -146,15 +83,16 @@
             </div>
             <div class="col-md-3 col-sm-4 col-xs-6">
                 <div class="single-testimonial center">
-                    <figure class="img-box">
-                        <a href="#"><img src="images/team/8.png" alt=""></a>
-                    </figure>
+                    <!-- <figure class="img-box">
+                        <a href="#"><img src="images/team/4.png" alt=""></a>
+                    </figure> -->
                     <div class="content">
                         
-                        <div class="text"><p> To taken a trivial example, which of <br> us ever undertakes it laborious <br>physical exercise works. </p></div>
+                        <div class="text"><p> Excellent work, all my needs were fulfilled to the point. Web design was really good and
+working flawlessly. Thankyou guys. Will surely love to work again in future. </p></div>
 
-                        <h4>Steve Bairstow </h4>
-                        <p class="author-title"><a href="#"> California</a></p>
+                        <h4>Ashish Patel & Snehal Gohil</h4>
+                        <p class="author-title"><a href="#"> Shiv Om</a></p>
                     </div>
                     
                         

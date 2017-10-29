@@ -27,26 +27,14 @@
             <div class="col-lg-3 col-md-4 col-sm-12">
                 <div class="service-sidebar">
                     <ul class="service-catergory">
-                        <li><a href="service-1.php">Business Growth</a></li>
-                        <li class="active"><a href="service-2.php">Sustainability</a></li>
-                        <li><a href="service-3.php">Performance</a></li>
-                        <li><a href="service-4.php">Advanced Analytics</a></li>
-                        <li><a href="service-5.php">Organization</a></li>
-                        <li><a href="service-6.php">Customer Insights</a></li>
-
+                        <li><a href="">Responsive web design</a></li>
+                        <li><a href="">E commerce development</a></li>
+                        <li><a href="">Web application development</a></li>
+                        <li><a href="">Mobile application development</a></li>
+                        <li><a href="">Digital marketing</a></li>
                     </ul>
                         
                     <br><br>
-                    <div class="inner-title">
-                        <h3>Our Brochures</h3>
-                    </div>
-                    <div class="brochures">
-
-                        <ul class="brochures-lists">
-                            <li><a href="#"><span class="fa fa-file-pdf-o"></span>Our Presentation.PDF</a></li>
-                            <li><a href="#"><span class="fa fa-file-word-o"></span>Financial Report.DOC</a></li>
-                        </ul>
-                    </div>
 
                     <div class="contact-info2">
                         <h4>Contact Us</h4>
@@ -54,10 +42,9 @@
                             <p>Please find below contact details <br>and contact us today! Our experts always ready to help you. </p>
                         </div>
                         <ul>
-                            <li><i class="fa fa-phone"></i>Phone: +123-456-7890</li>
-                            <li><i class="fa fa-envelope"></i><a href="#">Mailus@Experts.com</a></li>
+                            <li><i class="fa fa-phone"></i>Phone: +91 79846 30384</li>
+                            <li><i class="fa fa-envelope"></i><a href="#">info@multitudetech.com</a></li>
                         </ul>
-                        <a href="#" class="thm-btn">Get Free Quote</a>
                     </div>
 
                 </div>
@@ -71,16 +58,16 @@
                                 <figcaption class="default-overlay-outer">
                                     <div class="inner">
                                         <div class="content-layer">
-                                            <a href="service-1.php" class="thm-btn thm-tran-bg">read more</a>
                                         </div>
                                     </div>
                                 </figcaption>
                             </figure>
                             <div class="content center">
-                                <h5>Service #1</h5>
-                                <a href="service-1.php"><h4>Business Growth</h4></a>
+                                <h4>Responsive web design</h4>
                                 <div class="text">
-                                    <p>The process of improving some of <br>our an enterprise's success. Business <br>growth can be a achieved.</p>
+                                    <p>A flawlessly working website. You need it. Everyone needs it. Hence, we
+make sure your user gets amazing experiences no matter your business
+size. We make you the star of your industry.</p>
                                 </div>
                             </div>
                         </div>
@@ -93,16 +80,16 @@
                                 <figcaption class="default-overlay-outer">
                                     <div class="inner">
                                         <div class="content-layer">
-                                            <a href="service-2.php" class="thm-btn thm-tran-bg">read more</a>
                                         </div>
                                     </div>
                                 </figcaption>
                             </figure>
                             <div class="content center">
-                                <h5>Service #2</h5>
-                                <a href="service-2.php"><h4>Sustainability</h4></a>
+                                <a href="service-2.php"><h4>E commerce development</h4></a>
                                 <div class="text">
-                                    <p>When it comes to sustainability & <br>corporate responsibility, we believe <br>thenormal rules of business.</p>
+                                    <p>We help you in your journey form bricks and mortar to electronic
+commerce. We capture the essence of your business and maximize your
+target audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -115,16 +102,15 @@
                                 <figcaption class="default-overlay-outer">
                                     <div class="inner">
                                         <div class="content-layer">
-                                            <a href="service-3.php" class="thm-btn thm-tran-bg">read more</a>
                                         </div>
                                     </div>
                                 </figcaption>
                             </figure>
                             <div class="content center">
-                                <h5>Service #3</h5>
-                                <a href="service-3.php"><h4>Performance</h4></a>
+                                <a href="service-3.php"><h4>Web application development</h4></a>
                                 <div class="text">
-                                    <p>In a contract, performance deemed <br> to be the fulfillment of an obligation <br>in a manner that releases.</p>
+                                    <p>Leverage the power of internet, our experience and resources to deploy
+full spectrum of applications that meet your business needs and budget.</p>
                                 </div>
                             </div>
                         </div>
@@ -137,60 +123,15 @@
                                 <figcaption class="default-overlay-outer">
                                     <div class="inner">
                                         <div class="content-layer">
-                                            <a href="service-4.php" class="thm-btn thm-tran-bg">read more</a>
                                         </div>
                                     </div>
                                 </figcaption>
                             </figure>
                             <div class="content center">
-                                <h5>Service #4</h5>
-                                <a href="service-5.php"><h4>Organization</h4></a>
+                                <a href="service-5.php"><h4>Mobile application development</h4></a>
                                 <div class="text">
-                                    <p>We help business improve financial <br>performaance by ensuring the entire <br>organization system is aligned.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-
-                    <article class="column col-md-4 col-sm-6 col-xs-12">
-                        <div class="item">
-                            <figure class="img-box">
-                                <img src="images/service/5.jpg" alt="">
-                                <figcaption class="default-overlay-outer">
-                                    <div class="inner">
-                                        <div class="content-layer">
-                                            <a href="service-4.php" class="thm-btn thm-tran-bg">read more</a>
-                                        </div>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                            <div class="content center">
-                                <h5>Service #5</h5>
-                                <a href="service-4.php"><h4>Advanced Analytics</h4></a>
-                                <div class="text">
-                                    <p>Advanced Analytics is an unique  <br>add on service offer to The Experts <br> which enables you to discover.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-
-                    <article class="column col-md-4 col-sm-6 col-xs-12">
-                        <div class="item">
-                            <figure class="img-box">
-                                <img src="images/service/6.jpg" alt="">
-                                <figcaption class="default-overlay-outer">
-                                    <div class="inner">
-                                        <div class="content-layer">
-                                            <a href="service-4.php" class="thm-btn thm-tran-bg">read more</a>
-                                        </div>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                            <div class="content center">
-                                <h5>Service #6</h5>
-                                <a href="service-6.php"><h4>Customer Insights</h4></a>
-                                <div class="text">
-                                    <p>Interpretation of trends in human <br> behavors which aims to increase the <br>effectiveness of a product.</p>
+                                    <p>From simple phones to custom devices, we’ve a track record of providing
+the perfect app solution to your unique ideas.</p>
                                 </div>
                             </div>
                         </div>
