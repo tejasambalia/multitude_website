@@ -306,7 +306,6 @@ the perfect app solution to your unique ideas.</p>
                 <div class="text">
                     <p>We have built an enviable reputation in the consumer goods, heavy industry, high-tech, manufacturing, medical, recreational vehicle, and our transportation sectors. multidisciplinary team of experts.</p>
                 </div>
-                <div class="link"><a href="team.php" class="thm-btn-tr style-2">Know More</a></div>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 column style-2">
                 <div class="section-title">
@@ -317,12 +316,12 @@ the perfect app solution to your unique ideas.</p>
                         <p>We provide oreginal and creative work that helps your brand stand out.</p>
                     </div>
                     <ul class="list">
-                        <li><a href="service-1.php"><i class="fa fa-check-circle-o"></i>Discovery</a></li>
-                        <li><a href="service-2.php"><i class="fa fa-check-circle-o"></i>Strategy & Planning</a></li>
-                        <li><a href="service-3.php"><i class="fa fa-check-circle-o"></i>Design</a></li>
-                        <li><a href="service-4.php"><i class="fa fa-check-circle-o"></i>Build & Integration</a></li>
-                        <li><a href="service-5.php"><i class="fa fa-check-circle-o"></i>Test & Launch</a></li>
-                        <li><a href="service-6.php"><i class="fa fa-check-circle-o"></i>Access & Evolve</a></li>
+                        <li><a href=""><i class="fa fa-check-circle-o"></i>Discovery</a></li>
+                        <li><a href=""><i class="fa fa-check-circle-o"></i>Strategy & Planning</a></li>
+                        <li><a href=""><i class="fa fa-check-circle-o"></i>Design</a></li>
+                        <li><a href=""><i class="fa fa-check-circle-o"></i>Build & Integration</a></li>
+                        <li><a href=""><i class="fa fa-check-circle-o"></i>Test & Launch</a></li>
+                        <li><a href=""><i class="fa fa-check-circle-o"></i>Access & Evolve</a></li>
                     </ul>
                 </div>
             </div>
@@ -347,15 +346,15 @@ the perfect app solution to your unique ideas.</p>
                 <div class="quote"><span class="icon-left"></span></div>
                 <div class="author">
                     <div class="img-box">
-                        <a href="#"><img src="images/resource/thumb1.png" alt=""></a>
+                        <a href="#"><img src="images/team/1.png" alt=""></a>
                     </div>
-                    <h4>Jenifer Hearly</h4>
-                    <a href="#"><p>Newyork</p></a>
-                    <div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></div>
+                    <h4>Abhishek Javli</h4>
+                    <a href="#"><p>KnowAmp</p></a>
                 </div>
                 
                 <div class="slide-text">
-                    <p>Fortune has helped us to just have a better handle on everything in our business – to actually make decisions and move forward to grow.</p>
+                    <p>Multitudetech understands today’s web, but that’s not what makes them stand apart.
+They also understand today’s business world and how to keep their customers happy.</p>
                 </div>
             </article>
             
@@ -364,15 +363,16 @@ the perfect app solution to your unique ideas.</p>
                 <div class="quote"><span class="icon-left"></span></div>
                 <div class="author">
                     <div class="img-box">
-                        <a href="#"><img src="images/resource/thumb2.png" alt=""></a>
+                        <a href="#"><img src="images/team/4.png" alt=""></a>
                     </div>
-                    <h4>Mitchel Harward</h4>
-                    <a href="#"><p>San Fransisco</p></a>
-                    <div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></div>
+                    <h4>Ramesh Ambalia</h4>
+                    <a href="#"><p>Prajapati Sangam</p></a>
                 </div>
                 
                 <div class="slide-text">
-                    <p>They bring a wealth of knowledge as well as a personal touch so often missing from other firms, helped us to just have better handle on everything.</p>
+                    <p>Thank you multitudetech. It was a great experience working with you guys. Team was
+very professional, delivery was on time. My needs were very well understood and
+despite the complexity result was upto expectations.</p>
                 </div>
             </article>
             
@@ -381,15 +381,16 @@ the perfect app solution to your unique ideas.</p>
                 <div class="quote"><span class="icon-left"></span></div>
                 <div class="author">
                     <div class="img-box">
-                        <a href="#"><img src="images/resource/thumb3.png" alt=""></a>
+                        <a href="#"><img src="images/team/7.png" alt=""></a>
                     </div>
-                    <h4>Beally Russel</h4>
-                    <a href="#"><p>Newyork</p></a>
-                    <div class="rating"><span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span> <span class="fa fa-star"></span></div>
+                    <h4>Vataliya Prajapati</h4>
+                    <a href="#"><p>Mansukh Dandhukiya</p></a>                    
                 </div>
                 
                 <div class="slide-text">
-                    <p>It involves an examination of operations which allows their team discuss the art of the possible. They bring a wealth of knowledge, we believe fortune.</p>
+                    <p>It has been a pleasure to work with multitude and its team on this challenging project.
+They have been 100 % professional and willing to solve any issues without any
+complaints.</p>
                 </div>
             </article>
 
@@ -483,7 +484,7 @@ the perfect app solution to your unique ideas.</p>
                         <ul class="list-info">
                             <!-- <li><span class="fa fa-phone"></span>Phone: +321 456 78 901</li> -->
                             <li><span class="fa fa-envelope"></span>Email: info@multitudetech.com</li>
-                            <li><span class="fa fa-clock-o"></span>Mon to Sat: 9.00am to 16.pm</li>
+                            <li><span class="fa fa-clock-o"></span>Mon to Fri: 10.00am to 17.00pm</li>
                         </ul>
                     </div>
                 </div>
@@ -527,33 +528,6 @@ the perfect app solution to your unique ideas.</p>
             </div>
         </div>
     </div>
-</section>
-
-<section class="clients-section sec-padd">
-    <div class="container">
-        <div class="section-title">
-            <h2>our partners</h2>
-        </div>
-        <div class="client-carousel owl-carousel owl-theme">
-
-            <div class="item tool_tip" title="media partner">
-                <img src="images/clients/1.png" alt="Awesome Image">
-            </div>
-            <div class="item tool_tip" title="media partner">
-                <img src="images/clients/2.png" alt="Awesome Image">
-            </div>
-            <div class="item tool_tip" title="media partner">
-                <img src="images/clients/3.png" alt="Awesome Image">
-            </div>
-            <div class="item tool_tip" title="media partner">
-                <img src="images/clients/4.png" alt="Awesome Image">
-            </div>
-            <div class="item tool_tip" title="media partner">
-                <img src="images/clients/5.png" alt="Awesome Image">
-            </div>
-
-        </div>
-    </div>  
 </section>
 
 <?php include "footer.php" ?>
